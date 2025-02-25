@@ -3,8 +3,8 @@ The project requires you to install CV2 library
 
 
 
-if u fcae this error : stego py need cv2 lib
+if u face this error :
+stego py need cv2 lib
 
-solution :
-
+Then the solution is :
 pip install cv2
