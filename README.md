@@ -1,4 +1,4 @@
-The project required you to install CV2 library
+The project requires you to install CV2 library
 
 
 
